@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/google/static/css/main.693cf620.chunk.css",
+    "main.js": "/google/static/js/main.7d8a2f6f.chunk.js",
+    "main.js.map": "/google/static/js/main.7d8a2f6f.chunk.js.map",
+    "runtime-main.js": "/google/static/js/runtime-main.1f54399b.js",
+    "runtime-main.js.map": "/google/static/js/runtime-main.1f54399b.js.map",
+    "static/js/2.01478f04.chunk.js": "/google/static/js/2.01478f04.chunk.js",
+    "static/js/2.01478f04.chunk.js.map": "/google/static/js/2.01478f04.chunk.js.map",
+    "static/js/3.ed97643c.chunk.js": "/google/static/js/3.ed97643c.chunk.js",
+    "static/js/3.ed97643c.chunk.js.map": "/google/static/js/3.ed97643c.chunk.js.map",
+    "index.html": "/google/index.html",
+    "static/css/main.693cf620.chunk.css.map": "/google/static/css/main.693cf620.chunk.css.map",
+    "static/js/2.01478f04.chunk.js.LICENSE.txt": "/google/static/js/2.01478f04.chunk.js.LICENSE.txt",
+    "static/media/android.6bc1ad03.png": "/google/static/media/android.6bc1ad03.png",
+    "static/media/google.479a3373.png": "/google/static/media/google.479a3373.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f54399b.js",
+    "static/js/2.01478f04.chunk.js",
+    "static/css/main.693cf620.chunk.css",
+    "static/js/main.7d8a2f6f.chunk.js"
+  ]
+}
